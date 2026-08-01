@@ -96,7 +96,7 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 - A whole ton of options dude just look at it yourself (28 options!)
 
 **And So Much More!**
-- This project includes more than one hundred additional enhancements compared to the original version!
+- This project includes more than one hundred additional enhancements compared to GUST!
 
 ---
 
