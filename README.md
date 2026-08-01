@@ -3,7 +3,7 @@ A revolutionary project that has all your favorite proxy and exploiting features
 
 ## What is this?
 
-Horizon is a remodeled version of Horizon, a full-featured web proxy that lives entirely inside a single HTML file, allowing you to use it without any setup, hosting, or terminal access. It was built by the Nautilus Labs team to be a replacement for every single other proxy out there, and to put an end to school blocked proxies once and for all. However, it still had some errors, such as tab freezing, white screens, and incorrect framing throughout the code itself. Horizon fixes all of these bugs and more, along with adding features that advance user experience.
+Horizon is a remodeled version of GUST, a full-featured web proxy that lives entirely inside a single HTML file, allowing you to use it without any setup, hosting, or terminal access. It was built by the Nautilus Labs team to be a replacement for every single other proxy out there, and to put an end to school blocked proxies once and for all. However, it still had some errors, such as tab freezing, white screens, and incorrect framing throughout the code itself. Horizon fixes all of these bugs and more, along with adding features that advance user experience.
 
 ---
 
