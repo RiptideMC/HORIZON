@@ -35,7 +35,6 @@ The short version: most blockers can only block URLs. Horizon is a file. You can
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/cf82c849-1d7f-4b7b-88b2-0a5f5a51a7fb" />
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/a59ae8c8-4964-49d8-954b-29a4c7e86705" />
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/f7e90f32-15e1-45f5-b0cc-489ac0de7ec9" />
-<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/9edf7e2c-4edb-47b1-881a-665c57ae7680" />
 
 
 ---
