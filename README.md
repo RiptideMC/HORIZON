@@ -95,6 +95,9 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 - Full reset option (for when things go wrong, which they sometimes do)
 - A whole ton of options dude just look at it yourself (28 options!)
 
+  **And So Much More!**
+- Over a hundred more added features than the original project!
+
 ---
 
 ## Getting started
