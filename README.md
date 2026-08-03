@@ -22,14 +22,14 @@ Every single web proxy out there relies on something called a **Service Worker**
 School network filters, admin installed extensions (think Securly,  Lightspeed Systems, Securly, Linewize, Blocksi, etc.) and admin-controlled browsers (like Chromebook MDM policies) are very good at exactly this. Your school maintains blocklists, with specific sites added every day to this list of sites you can't access. Many filtering extensions also have more advanced features, where they read a links metadata to detect proxy patterns and automatically add them to the blocklist. An even higher number of these extensions control what can run in the background, which is a big achilles heel for every single current proxy site available. 
 Horizon doesn't use Service Workers at all. Instead, it uses **libcurl.js**, a full HTTP library compiled to WebAssembly, to make requests directly through a WebSocket tunnel called the WISP protocol. (Thanks to Mercury Workshop for these) The entire proxy engine runs as plain JavaScript inside a single HTML file. This means:
 
-✅ **It can run as a local file** (`file://`), with no server and no domain to block
-✅ **It can be hosted anywhere static files work**: GitHub Pages, Vercel, Netlify, a USB drive, a Google Doc, a Google Site, etc.
-✅ **It can be hosted on JSDelivr or CDN sites**, because the site can be loaded through one SVG file
-✅ **It has no Service Worker to kill**, because it never registered one
-✅ **It can be renamed, embedded in an iframe, or wrapped in another HTML file**, giving the filter nothing to latch onto
-✅ **It can be copy-pasted into any WYSIWYG HTML editor on the web**, because again, it's just HTML with CSS and JS inlined
-✅ **It can be compiled into a blob: or data: url and opened that way**, again, HTML
-✅ **It can be written to an about:blank page and used from there**, need I repeat why?
+-✅ **It can run as a local file** (`file://`), with no server and no domain to block
+-✅ **It can be hosted anywhere static files work**: GitHub Pages, Vercel, Netlify, a USB drive, a Google Doc, a Google Site, etc.
+-✅ **It can be hosted on JSDelivr or CDN sites**, because the site can be loaded through one SVG file
+-✅ **It has no Service Worker to kill**, because it never registered one
+-✅ **It can be renamed, embedded in an iframe, or wrapped in another HTML file**, giving the filter nothing to latch onto
+-✅ **It can be copy-pasted into any WYSIWYG HTML editor on the web**, because again, it's just HTML with CSS and JS inlined
+-✅ **It can be compiled into a blob: or data: url and opened that way**, again, HTML
+-✅ **It can be written to an about:blank page and used from there**, need I repeat why?
 
 The short version: most blockers can only block URLs. Horizon is a file. You can't block a file without obliterating a cruical part of the student user experience, and even if they take that drastic step, well, HTML can be hosted or opened in litrally anything. It's the frame of the world wide web. no more whack-a-mole, cat-and-mouse game of finding unblocked links and your school blocking them!
 
