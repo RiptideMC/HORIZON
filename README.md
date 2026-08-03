@@ -5,6 +5,7 @@
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
 ![totally working svg](https://img.shields.io/badge/svg%20functionality-gorgeous%20and%20beautiful-blue?style=flat-square)
 
+---
 A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!
 
 ## What is this?
