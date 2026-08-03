@@ -1,4 +1,7 @@
-# HORIZON
+<div align="center">
+
+# Horizon, by [RiptideMC](https://github.com/RiptideMC)
+
 A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!
 
 ## What is this?
