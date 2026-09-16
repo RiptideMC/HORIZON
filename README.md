@@ -149,6 +149,11 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 - Very JavaScript-heavy SPAs may have edge cases in navigation interception.
 - ---
 
+**WISHLIST**
+-Domain: riptide.software
+-Domain: horizon-engine.com
+-Fortnite Battle Pass! (user RiptideFN)
+
 <div align="center">
 
 Made by RiptideMC
