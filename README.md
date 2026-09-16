@@ -75,6 +75,7 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 - Recent browser history (stored locally)
 - Address bar with search engine integration (Brave, Bing)
 - All expected nav buttons
+- NEW Chrome Web Store Features for a more browser-like feel.
 
 **Privacy & blocking**
 - Built-in ad and tracker blocker with cosmetic filtering and customizable CSS filter rules
