@@ -1,6 +1,6 @@
 <div align="center">
 
-# Horizon, by [ɌɨᵽŧɨđɇMȻ](https://github.com/RiptideMC)
+# Horizon, by [RiptideMC](https://github.com/RiptideMC)
 ![version](https://img.shields.io/badge/version-4.0-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
@@ -75,7 +75,8 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 - Recent browser history (stored locally)
 - Address bar with search engine integration (Brave, Bing)
 - All expected nav buttons
-- NEW Chrome Web Store Features for a more browser-like feel.
+- Chrome Web Store features for a more browser-like feel
+- NEW tab cloaking options to hide your tab and disguise it
 
 **Privacy & blocking**
 - Built-in ad and tracker blocker with cosmetic filtering and customizable CSS filter rules
