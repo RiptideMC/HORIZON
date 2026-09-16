@@ -150,9 +150,10 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 - ---
 
 **WISHLIST**
--Domain: riptide.software
--Domain: horizon-engine.com
--Fortnite Battle Pass! (user RiptideFN)
+- Domain: riptide.software
+- Domain: horizon-engine.com
+- Fortnite Battle Pass! (user RiptideFN)
+  -----
 
 <div align="center">
 
