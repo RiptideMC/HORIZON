@@ -1,6 +1,6 @@
 <div align="center">
 
-# Horizon, by [RiptideMC](https://github.com/RiptideMC)
+# Horizon, by [ɌɨᵽŧɨđɇMȻ](https://github.com/RiptideMC)
 ![version](https://img.shields.io/badge/version-4.0-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
