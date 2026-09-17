@@ -76,7 +76,7 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 - Address bar with search engine integration (Brave, Bing)
 - All expected nav buttons
 - Chrome Web Store features for a more browser-like feel
-- NEW tab cloaking options to hide your tab and disguise it
+- Tab cloaking options to hide your tab in your history and change its name/favicon
 
 **Privacy & blocking**
 - Built-in ad and tracker blocker with cosmetic filtering and customizable CSS filter rules
