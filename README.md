@@ -148,11 +148,10 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 - Some links can't be followed inside Horizon. For now just drag the link to the omnibox :/.
 - The language/spellcheck feature is listed in settings and labeled `[BROKEN]`. We know. It'l be fixed eventually
 - Very JavaScript-heavy SPAs may have edge cases in navigation interception.
-- ---
 
+ ---
 
-
-**WISHLIST**
+## WISHLIST
 - Domain: riptide.software
 - Domain: horizon-engine.com
 - Fortnite Battle Pass! (user RiptideFN)
