@@ -128,7 +128,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 **A Note on Horizon Fast Edition**
 
-Although Horizon is very advanced, it does not have the fastest search times to load pages. Horizon's newest version, deemed `horizon-fast-beta`, loads search results much faster than the original, but stability suffers. 
+Although Horizon is very advanced, it does not have the fastest search times to load pages. Horizon's newest version, deemed `horizon-fast-beta`, loads search results much faster than the original, but stability suffers. HORIZON FAST EDITION IS BUGGY AND HAS A LOT OF GLITCHES. PLEASE DON'T SPAM THE ISSUES, I AM WORKING ON FIXING THIS.
 
 ---
 
