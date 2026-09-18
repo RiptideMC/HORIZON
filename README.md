@@ -116,15 +116,19 @@ Horizon ships with more features than a proxy arguably needs, but we wanted your
 
 **Option 1:  Just open the file**
 
-Download `index.html` and open it in any modern browser. That's it. That's the whole setup.
+Download `index.html` or `horizon-fast-beta` and open it in any modern browser. That's it. That's the whole setup.
 
 **Option 2: Host it**
 
-Drop `index.html` on any static host. GitHub Pages, Vercel, Cloudflare Pages, Netlify, your university's free web hosting that's been running since 2003. They all work fine.
+Drop `index.html` or `horizon-fast-beta` on any static host. GitHub Pages, Vercel, Cloudflare Pages, Netlify, your university's free web hosting that's been running since 2003. They all work fine.
 
 **Option 3: Embed it**
 
 Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works from a data URI (though large). Basically works from anywhere.
+
+**A Note on `Horizon Fast Edition`**
+
+Although Horizon is very advanced, it does not have the fastest search times to load pages. Horizon's newest version, deemed `horizon-fast-beta`, loads search results much faster than the original, but stability suffers. 
 
 ---
 
