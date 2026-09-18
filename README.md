@@ -9,6 +9,8 @@
 </div>
 
 ---
+Please read the README before doing anything!
+---
 A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!
 
 ## What is this?
