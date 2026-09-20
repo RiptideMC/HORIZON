@@ -178,7 +178,7 @@ Although HORIZON is very advanced, it does not have the fastest search times to 
 ## WISHLIST
 - Domain: riptide.software
 - Domain: HORIZON-engine.com
-- Fortnite Battle Pass! (user RiptideFN)
+- Feedback on what I can improve (much appreciated)
 
   -----
 
