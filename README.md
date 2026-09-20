@@ -16,7 +16,7 @@
 
 ---
 
-## **⭐ A star is always appreciated! ⭐**
+## ⭐ A star is always appreciated! ⭐
 
 ---
 
