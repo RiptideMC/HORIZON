@@ -32,7 +32,7 @@ Horizon is a remodeled version of GUST, a full-featured web proxy that lives ent
 
 <div align="center">
  
-[CREDIT TO NAUTILUS OS AND EVERYONE WHO WORKED ON GUST]
+[CREDIT TO NAUTILUS LABS AND EVERYONE WHO WORKED ON GUST]
  
 </div>
 
