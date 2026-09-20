@@ -18,8 +18,6 @@
 
 ## ⭐ A star is always appreciated! ⭐
 
----
-
 </div>
 
 ---
