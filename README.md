@@ -9,9 +9,7 @@
 </div>
 
 ---
-<div align="center">
 Please read the README before doing anything!
-</div>
 ---
 A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!
 
