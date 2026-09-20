@@ -53,7 +53,7 @@ Horizon doesn't use Service Workers at all. Instead, it uses **libcurl.js**, a f
 - ✅ **It can be compiled into a blob: or data: url and opened that way**, again, HTML
 - ✅ **It can be written to an about:blank page and used from there**, need I repeat why?
 
-The short version: most blockers can only block URLs. Horizon is a file. You can't block a file without obliterating a cruical part of the student user experience, and even if they take that drastic step, well, HTML can be hosted or opened in litrally anything. It's the frame of the world wide web. no more whack-a-mole, cat-and-mouse game of finding unblocked links and your school blocking them!
+The short version: most blockers can only block URLs. Horizon is a file. You can't block a file without obliterating a cruical part of the student user experience, and even if they take that drastic step, well, HTML can be hosted or opened in literally anything. It's the frame of the world wide web. no more whack-a-mole, cat-and-mouse game of finding unblocked links and your school blocking them!
 
 ---
 ## Beauty Shots
