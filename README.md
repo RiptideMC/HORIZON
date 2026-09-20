@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Please read the README before doing anything!
+**Please read the README before doing anything!**
 
 </div>
 
