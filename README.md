@@ -14,6 +14,12 @@
 
 ## **Please read the README before doing anything!**
 
+---
+
+## **⭐ A star is always appreciated! ⭐**
+
+---
+
 </div>
 
 ---
