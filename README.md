@@ -176,8 +176,8 @@ Although HORIZON is very advanced, it does not have the fastest search times to 
  ---
 
 ## WISHLIST
-- Domain: riptide.software
-- Domain: HORIZON-engine.com
+- Domain: riptide.software (available on spaceship.com for $10.35 per year)
+- Domain: horizon-engine.com (available on spaceship.com for $8.88 per year)
 - Feedback on what I can improve (much appreciated)
 
   -----
