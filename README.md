@@ -18,6 +18,12 @@
 
 ## ⭐ A star is always appreciated! ⭐
 
+---
+
+## **Get ready for v5.0! Featuring anti-telemetry, active filter poisoning, a built-in game site, and 150+ new features!**
+
+---
+
 </div>
 
 ---
