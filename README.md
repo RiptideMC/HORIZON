@@ -21,7 +21,6 @@
 ---
 
 ### *HORIZON v5.0 is dropping soon! Prepare for a massive generation jump packed with over 150 additional features: active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. We've overhauled the layout with premium glassmorphism and radiant RGB options while fine-tuning the engine for our fastest search and traffic handling speeds yet.*
----
 
 </div>
 
