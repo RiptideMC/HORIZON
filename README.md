@@ -176,7 +176,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 ## Development History & Core Milestones
 
 [v1.0] ➔ Baseline Engineering
-- Initial fork of the single-file framework.
+- Initial redesign of the single-file framework.
 - Established standard deployment parameters.
 
 [v2.0] ➔ Optimization Pass [badge not updated]
