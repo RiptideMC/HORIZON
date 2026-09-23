@@ -175,7 +175,6 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 ## Development History & Core Milestones
 
-```
 [v1.0] ➔ Baseline Engineering
         └── Initial fork of the single-file framework.
         └── Established standard deployment parameters.
@@ -202,7 +201,6 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
         └── Encapsulated Shadow-DOM frame isolation container blocks.
         └── Dual-Action Panic safety system with embedded school portal mask.
         └── Integrated offline arcade matrix with WebAssembly retro emulators.
-```
 
 ---
 
