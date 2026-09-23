@@ -176,31 +176,31 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 ## Development History & Core Milestones
 
 [v1.0] ➔ Baseline Engineering
-        └── Initial fork of the single-file framework.
-        └── Established standard deployment parameters.
+- └── Initial fork of the single-file framework.
+- └── Established standard deployment parameters.
 
 [v2.0] ➔ Optimization Pass [badge not updated]
-        └── Resolved initial styling alignment bugs.
-        └── Tweaked baseline request handling speeds.
+- └── Resolved initial styling alignment bugs.
+- └── Tweaked baseline request handling speeds.
 
 [v3.0] ➔ Stability Overhaul [badge not updated]
-        └── Main-thread performance patches to mitigate tab freezing.
-        └── Addressed white-screen layout failure loops.
-        └── Introduced early visual theme configurations.
+- └── Main-thread performance patches to mitigate tab freezing.
+- └── Addressed white-screen layout failure loops.
+- └── Introduced early visual theme configurations.
 
 [v4.0] ➔ The Fast Edition (Current Release)
-        └── Transitioned to a sophisticated, high-performance engine.
-        └── Integrated the Benchmarked WISP Pool (Round-Robin server routing).
-        └── Optimized concurrent script threading for zero-latency searches.
-        └── Launched the HORIZON+ Studio / Color Lab layout customization matrix.
-        └── Fully decoupled from standard ServiceWorker dependencies.
+- └── Transitioned to a sophisticated, high-performance engine.
+- └── Integrated the Benchmarked WISP Pool (Round-Robin server routing).
+- └── Optimized concurrent script threading for zero-latency searches.
+- └── Launched the HORIZON+ Studio / Color Lab layout customization matrix.
+- └── Fully decoupled from standard ServiceWorker dependencies.
 
 [v5.0] ➔ The Evolutionary Leap (Upcoming)
-        └── Implementation of multi-thread Asynchronous Web Workers.
-        └── Hardened anti-telemetry scripts and active filter poisoning.
-        └── Encapsulated Shadow-DOM frame isolation container blocks.
-        └── Dual-Action Panic safety system with embedded school portal mask.
-        └── Integrated offline arcade matrix with WebAssembly retro emulators.
+- └── Implementation of multi-thread Asynchronous Web Workers.
+- └── Hardened anti-telemetry scripts and active filter poisoning.
+- └── Encapsulated Shadow-DOM frame isolation container blocks.
+- └── Dual-Action Panic safety system with embedded school portal mask.
+- └── Integrated offline arcade matrix with WebAssembly retro emulators.
 
 ---
 
