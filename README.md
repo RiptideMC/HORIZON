@@ -204,7 +204,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 ---
 
-## 🎁 Wishlist & Support
+## Wishlist & Support
 I am a young developer and don't accept direct money donations! If you want to support HORIZON, you can help by purchasing one of these domains and gifting/transferring it to the project:
 - Domain: `riptide.software` (\$10.35/yr)
 - Domain: `horizon-engine.com` (\$8.88/yr)
