@@ -1,7 +1,7 @@
 <div align="center">
 
 # [HORIZON](https://horizon-riptide.vercel.app), by [RiptideMC](https://github.com/RiptideMC)
-![version](https://img.shields.io/badge/version-4.0-light-purple?style=flat-square)
+![version](https://img.shields.io/badge/version-4.0-gold?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
 ![proxy functionality](https://img.shields.io/badge/proxy%20functionality-fast%20and%20sophisticad-blue?style=flat-square)
