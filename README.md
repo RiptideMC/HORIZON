@@ -127,7 +127,7 @@ HORIZON ships with more features than a proxy arguably needs, but we wanted your
 - Bookmarks bar toggle, clock format (12/24h)
 - Keyboard shortcut editor
 - Full reset option (for when things go wrong, which they sometimes do)
-- A whole ton of options dude just look at it yourself (28 options!)
+- A whole ton of options dude just look at it yourself (LOTS of customization!)
 
 **And So Much More!**
 - This project includes more than one hundred additional enhancements compared to GUST!
