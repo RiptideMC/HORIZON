@@ -201,7 +201,8 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 - Encapsulated Shadow-DOM frame isolation container blocks.
 - Dual-Action Panic safety system with embedded school portal mask.
 - Integrated offline arcade matrix with WebAssembly retro emulators.
-- Lag prevention options and background script running for maximum performance.
+- Lag prevention options and background script running for improved performance.
+- Advanced Blob-compiled execution loops running completely off the main interface thread to unlock maximum concurrent search handling and total immunity against extension-level monitoring.
 
 ---
 
