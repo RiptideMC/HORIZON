@@ -13,6 +13,7 @@
 <div align="center">
 
 ## **Please read the README before doing anything!**
+ATTENTION: A MAJOR BUG IN THE ABOUT:BLANK REROUTING (HISTORY HIDER) HAS BEEN DETECTED. HISTORY HIDER MAY BE REMOVED.
 
 ---
 
