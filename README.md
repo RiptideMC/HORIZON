@@ -13,7 +13,7 @@
 <div align="center">
 
 ## **Please read the README before doing anything!**
-ATTENTION: A MAJOR BUG IN THE ABOUT:BLANK REROUTING (HISTORY HIDER) HAS BEEN DETECTED. HISTORY HIDER MAY BE REMOVED. SEARCHES ARE NOT CLICKABLE OR ABLE TO BE DRAGGED INTO THE OMNIBOX. I AM WORKING ON FIXING THIS AND FIGURING OUT WHAT TO DO.
+ATTENTION: A MAJOR BUG IN THE ABOUT:BLANK REROUTING (HISTORY HIDER) HAS BEEN DETECTED. HISTORY HIDER IS CAUSING SEARCH RESULTS TO NOT BE CLICKABLE OR DRAGGABLE. UNFORTUNATELY, IT MUST BE REMOVED. THANK YOU FOR YOUR SUPPORT!
 
 ---
 
@@ -191,7 +191,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 [v4.0] ➔ The Fast Edition (Current Release)
 - Transitioned to a sophisticated, high-performance engine.
-- Integrated tab cloaking and a "history hider" mode.
+- Integrated tab cloaking.
 - Optimized concurrent script threading for zero-latency searches.
 - Updated the HORIZON+ Studio / Color Lab layout customization matrix.
 - Fully decoupled from standard ServiceWorker dependencies.
