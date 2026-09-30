@@ -203,6 +203,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 - Integrated offline arcade matrix with WebAssembly retro emulators.
 - Lag prevention options and background script running for improved performance.
 - Advanced Blob-compiled execution loops running completely off the main interface thread to unlock maximum concurrent search handling and total immunity against extension-level monitoring.
+- Adaptive hybrid dual-engine processing failover pipelines that dynamically fall back to a main-thread GUST-style architecture if strict target site Content Security Policies block background Web Worker binary Blob execution strings.
 
 ---
 
