@@ -21,7 +21,7 @@
 
 ---
 
-### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet.*
+### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features, including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet.*
 
 </div>
 
@@ -37,7 +37,7 @@ A revolutionary project that has all your favorite proxy and exploiting features
 
 ## What is this?
 
-HORIZON is a remodeled version of GUST, a full-featured web proxy that lives entirely inside a single HTML file, allowing you to use it without any setup, hosting, or terminal access. It was built by the Nautilus Labs team to be a replacement for every single other proxy out there, and to put an end to school blocked proxies once and for all. However, it still had some errors, such as tab freezing, white screens, and incorrect framing throughout the code itself. HORIZON fixes all of these bugs and more, along with adding features that advance user experience. 
+HORIZON is a remodeled version of GUST, a full-featured web proxy that lives entirely inside a single HTML file, allowing you to use it without any setup, hosting, or terminal access. It was built by the Nautilus Labs team to be a replacement for every single other proxy out there, and to put an end to school-blocked proxies once and for all. However, it still had some errors, such as tab freezing, white screens, and incorrect framing throughout the code itself. HORIZON fixes all of these bugs and more, along with adding features that advance user experience. 
 
 <div align="center">
  
@@ -51,7 +51,7 @@ HORIZON is a remodeled version of GUST, a full-featured web proxy that lives ent
 
 Every single web proxy out there relies on something called a **Service Worker**, a background script that intercepts network requests before they reach the browser. It's an integral part of any other web proxy you use, allowing the proxy to communicate with its server and proxy your requests, but Service Workers ALWAYS require a live server to function. That means traditional proxies only work when hosted at a specific URL. Block that URL, and the proxy is dead. You're probably already familiar with the cat-and-mouse game between you and your admin, where someone makes a link, it gets used for a day or two, then gets blocked.
 
-School network filters, admin installed extensions (think Securly,  Lightspeed Systems, Securly, Linewize, Blocksi, etc.) and admin-controlled browsers (like Chromebook MDM policies) are very good at exactly this. Your school maintains blocklists, with specific sites added every day to this list of sites you can't access. Many filtering extensions also have more advanced features, where they read a links metadata to detect proxy patterns and automatically add them to the blocklist. An even higher number of these extensions control what can run in the background, which is a big achilles heel for every single current proxy site available. 
+School network filters, admin-installed extensions (like Securly,  Lightspeed Systems, Securly, Linewize, Blocksi, etc.) and admin-controlled browsers (like Chromebook MDM policies) are very good at exactly this. Your school maintains blocklists, with specific sites added every day to this list of sites you can't access. Many filtering extensions also have more advanced features, where they read a link's metadata to detect proxy patterns and automatically add them to the blocklist. An even higher number of these extensions control what can run in the background, which is a big achilles heel for every single current proxy site available. 
 HORIZON doesn't use Service Workers at all. Instead, it uses **libcurl.js**, a full HTTP library compiled to WebAssembly, to make requests directly through a WebSocket tunnel called the WISP protocol. (Thanks to Mercury Workshop for these) The entire proxy engine runs as plain JavaScript inside a single HTML file. This means:
 
 - ✅ **It can run as a local file** (`file://`), with no server and no domain to block
@@ -59,10 +59,10 @@ HORIZON doesn't use Service Workers at all. Instead, it uses **libcurl.js**, a f
 - ✅ **It has no Service Worker to kill**, because it never registered one
 - ✅ **It can be renamed, embedded in an iframe, or wrapped in another HTML file**, giving the filter nothing to latch onto
 - ✅ **It can be copy-pasted into any WYSIWYG HTML editor on the web**, because again, it's just HTML with CSS and JS inlined
-- ✅ **It can be compiled into a blob: or data: url and opened that way**, again, HTML
-- ✅ **It can be written to an about:blank page and used from there**, need I repeat why?
+- ✅ **It can be compiled into a blob: or data: URL and opened that way**, again, HTML
+- ✅ **It can be written to an about:blank page and used from there**; need I repeat why?
 
-The short version: most blockers can only block URLs. HORIZON is a file. You can't block a file without obliterating a cruical part of the student user experience, and even if they take that drastic step, well, HTML can be hosted or opened in literally anything. It's the frame of the world wide web. no more whack-a-mole, cat-and-mouse game of finding unblocked links and your school blocking them!
+The short version: most blockers can only block URLs. HORIZON is a file. You can't block a file without obliterating a crucial part of the student user experience, and even if they take that drastic step, well, HTML can be hosted or opened in literally anything. It's the frame of the World Wide Web. No more whack-a-mole, cat-and-mouse game of finding unblocked links and your school blocking them!
 
 ---
 ## Beauty Shots
@@ -80,7 +80,7 @@ The short version: most blockers can only block URLs. HORIZON is a file. You can
 
 ## How it works
 
-When you type a URL, HORIZON fetches the entire page through a WebAssembly HTTP client, rewrites every resource URL, injects a proxy runtime script, and renders the result in a sandboxed iframe. It's important to note that the iframe is purely for sandboxing, and the sites you visit inside HORIZON have already been proxied. In other low-quality "proxies" that present themselves as able to work without a serviceworker, an iframe is often used to simply point to another URL (e.g., <iframe src="[https://blocked-site.com](https://blocked-site.com)">), with no additional rewriting or proxying at all. This fails immediately because filters can see the request to the blocked domain and kills it. HORIZON fetches raw data through a Wisp tunnel and scrubs the code to redirect every link and resource back to itself, it injects that modified payload into the iframe as a sandboxed environment. This ensures the proxied site can run its own scripts and styles without breaking the HORIZON interface or leaking your real activity to the network filter, and ensures the only request filters can see is a request to the Wisp server. 
+When you type a URL, HORIZON fetches the entire page through a WebAssembly HTTP client, rewrites every resource URL, injects a proxy runtime script, and renders the result in a sandboxed iframe. It's important to note that the iframe is purely for sandboxing, and the sites you visit inside HORIZON have already been proxied. In other low-quality "proxies" that present themselves as able to work without a service worker, an iframe is often used to simply point to another URL (e.g., <iframe src="[https://blocked-site.com](https://blocked-site.com)">), with no additional rewriting or proxying at all. This fails immediately because filters can see the request to the blocked domain and kill it. HORIZON fetches raw data through a Wisp tunnel and scrubs the code to redirect every link and resource back to itself; it injects that modified payload into the iframe as a sandboxed environment. This ensures the proxied site can run its own scripts and styles without breaking the HORIZON interface or leaking your real activity to the network filter, and ensures the only request filters can see is a request to the Wisp server. 
 
 
 Every page HORIZON loads gets a small script injected before anything else runs. This script intercepts virtually every way a page can try to escape the proxy: `location.href`, `window.open`, form submissions, `XMLHttpRequest`, `fetch`, `WebSocket`, `Worker`, `EventSource`, history API pushes, anchor clicks, and even the Navigation API used by modern SPAs. It also spoofs `document.cookie`, `localStorage`, `sessionStorage`, and IndexedDB so pages behave as if they're on their real origin. All network traffic also flows through a WISP WebSocket server, so your real IP is never exposed to the sites you visit. The WISP server acts as a TCP/TLS relay, and the destination server only ever sees the relay's address, not yours. You can self-host a WISP server or use a public one, and HORIZON supports server switching in settings.
@@ -128,7 +128,7 @@ HORIZON ships with more features than a proxy arguably needs, but we wanted your
 - Bookmarks bar toggle, clock format (12/24h)
 - Keyboard shortcut editor
 - Full reset option (for when things go wrong, which they sometimes do)
-- A whole ton of options dude just look at it yourself (LOTS of customization!)
+- A whole ton of options, lol just look at it yourself (LOTS of customization!)
 
 **And So Much More!**
 - This project includes more than one hundred additional enhancements compared to GUST!
@@ -167,9 +167,9 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 ## Known bugs and limitations
 
-- Some complex web features can't be fully proxied: native WebSockets from within a page, WebRTC (intentionally blockable via settings), and service workers inside proxied pages
-- Some links can't be followed inside HORIZON. For now just drag the link to the omnibox :/.
-- The language/spellcheck feature is listed in settings and labeled `[BROKEN]`. We know. It'l be fixed eventually
+- Some complex web features can't be fully proxied: native WebSockets from within a page, WebRTC (intentionally blockable via settings), and service workers inside proxied pages.
+- Some links can't be followed inside HORIZON. For now, just drag the link to the omnibox :/.
+- The language/spellcheck feature is listed in settings and labeled `[BROKEN]`. I know. It'll be fixed eventually.
 - Very JavaScript-heavy SPAs may have edge cases in navigation interception.
 
  ---
