@@ -21,7 +21,6 @@
 
 ### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features, including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet. LOOK AT SOME LEAKED IMAGES BELOW!!!*
 
-<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/8999d6d1-a29d-400b-8120-452f27536f89" />
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/128b5892-fd01-41ce-994a-2f302ea88372" />
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/e987cb22-a654-430a-a68a-c97c77c81d31" />
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/986e190a-cdff-476c-bc61-c97b3d4c6fa5" />
