@@ -23,13 +23,13 @@
 
 ### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features, including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet. LOOK AT SOME LEAKED IMAGES BELOW!!!*
 
-<img width="235" height="435" alt="image" src="https://github.com/user-attachments/assets/8999d6d1-a29d-400b-8120-452f27536f89" />
-<img width="347" height="235" alt="image" src="https://github.com/user-attachments/assets/128b5892-fd01-41ce-994a-2f302ea88372" />
-<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/e987cb22-a654-430a-a68a-c97c77c81d31" />
-<img width="1463" height="236" alt="image" src="https://github.com/user-attachments/assets/986e190a-cdff-476c-bc61-c97b3d4c6fa5" />
-<img width="1917" height="853" alt="image" src="https://github.com/user-attachments/assets/8336fb5f-31f6-430c-8904-dc6f5a6a92d3" />
-<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/07cd2a4f-b239-4faa-8377-d02929613d4a" />
-<img width="1442" height="152" alt="image" src="https://github.com/user-attachments/assets/b4afedbd-284b-44a8-9b06-872dfba53ffc" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/8999d6d1-a29d-400b-8120-452f27536f89" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/128b5892-fd01-41ce-994a-2f302ea88372" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/e987cb22-a654-430a-a68a-c97c77c81d31" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/986e190a-cdff-476c-bc61-c97b3d4c6fa5" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/8336fb5f-31f6-430c-8904-dc6f5a6a92d3" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/07cd2a4f-b239-4faa-8377-d02929613d4a" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/b4afedbd-284b-44a8-9b06-872dfba53ffc" />
 
 
 
