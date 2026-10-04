@@ -1,3 +1,5 @@
+<div align="center">
+
 # [HORIZON](https://horizon-riptide.vercel.app), by [RiptideMC](https://github.com/RiptideMC)
 ![version](https://img.shields.io/badge/version-4.0-gold?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
