@@ -158,7 +158,7 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 ---
 
-## DEPLOYMENT
+## Deployment
 
 Make your own vercel.app instance of HORIZON with this button!
 
