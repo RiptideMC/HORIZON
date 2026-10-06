@@ -229,7 +229,7 @@ You can also do this with Netlify!
 ## Wishlist & Support
 I am a young developer and don't accept direct money donations! If you want to support HORIZON, you can help by purchasing one of these domains and gifting/transferring it to the project:
 - Domain: `riptide.software` (\$10.35/yr)
-- Domain: `horizon-engine.com` (\$8.88/yr)
+- Domain: `horizon-engine.live` (\$2.07/yr)
 
 If you'd like to gift a domain or transfer DNS control, please open a GitHub Issue or add me on Discord: **`oof_TOWN_87`**
 
