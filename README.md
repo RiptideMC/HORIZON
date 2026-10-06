@@ -15,7 +15,7 @@
 ## **Please consult the README before anything else!**
 
 ---
-**Links:**
+## **Links:**
 - [https://horizon-riptide.vercel.app/](https://horizon-riptide.vercel.app/)
 - [https://discord.gg/94h4E6JADU](https://discord.gg/94h4E6JADU)
 ---
