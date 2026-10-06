@@ -6,15 +6,15 @@
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
 ![proxy functionality](https://img.shields.io/badge/proxy%20functionality-fast%20and%20sophisticad-blue?style=flat-square)
 
-</div>
 
 ---
 
-<div align="center">
 
 ## **Please consult the README before anything else!**
 
 ---
+
+</div>
 
 ## Links
 
