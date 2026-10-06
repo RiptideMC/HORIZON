@@ -219,7 +219,7 @@ You can also do this with Netlify!
 - Hardened anti-telemetry scripts and active filter poisoning.
 - Encapsulated Shadow-DOM frame isolation container blocks.
 - Dual-Action Panic safety system with embedded school portal mask.
-- Integrated offline arcade matrix with WebAssembly retro emulators.
+- Integrated offline unblocked game site matrix with WebAssembly retro emulators.
 - Lag prevention options and background script running for improved performance.
 - Advanced Blob-compiled execution loops running completely off the main interface thread to unlock maximum concurrent search handling and total immunity against extension-level monitoring.
 - Adaptive hybrid dual-engine processing failover pipelines that dynamically fall back to a main-thread GUST-style architecture if strict target site Content Security Policies block background Web Worker binary Blob execution strings.
