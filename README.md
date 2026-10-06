@@ -16,8 +16,8 @@
 
 ---
 ## **Links:**
-- [https://horizon-riptide.vercel.app/](https://horizon-riptide.vercel.app/)
-- [https://discord.gg/94h4E6JADU](https://discord.gg/94h4E6JADU)
+- ##[https://horizon-riptide.vercel.app/](https://horizon-riptide.vercel.app/)
+- ##[https://discord.gg/94h4E6JADU](https://discord.gg/94h4E6JADU)
 ---
 
 
