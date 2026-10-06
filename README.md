@@ -12,7 +12,6 @@
 
 ## **Please consult the README before anything else!**
 
----
 
 </div>
 
