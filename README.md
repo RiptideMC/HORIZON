@@ -18,7 +18,7 @@
 ## Links
 
 - https://horizon-riptide.vercel.app/
-- https://discord.gg/94h4E6JADU
+- http://dsc.gg/horizon-community
 
 ---
 
