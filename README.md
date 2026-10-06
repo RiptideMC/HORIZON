@@ -17,6 +17,13 @@
 
 ---
 
+
+## **Check out the discord at [https://discord.gg/94h4E6JADU](https://discord.gg/94h4E6JADU)
+
+
+---
+
+
 ## ⭐ A star is always appreciated! ⭐
 
 ---
