@@ -158,6 +158,18 @@ Put it inside another HTML file as an `<iframe>`. Works from a Blob URL. Works f
 
 ---
 
+## DEPLOYMENT
+
+Make your own vercel.app instance of HORIZON with this button!
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Friptidemc%2Fhorizon)
+
+You can also do this with Netlify!
+
+[![Deploy with Netlify](https://netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/riptidemc/horizon)
+
+---
+
 ## Tech stack
 
 | Library | Version | Purpose |
