@@ -22,12 +22,14 @@
 
 ---
 
+<div align="center">
  
 *A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!*
 
 
 ---
 
+</div>
 
 ### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features, including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet. LOOK AT SOME IMAGES BELOW!!!*
 
