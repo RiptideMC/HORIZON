@@ -15,16 +15,13 @@
 ## **Please consult the README before anything else!**
 
 ---
-## **Links:**
-- ##[https://horizon-riptide.vercel.app/](https://horizon-riptide.vercel.app/)
-- ##[https://discord.gg/94h4E6JADU](https://discord.gg/94h4E6JADU)
----
 
+## Links
 
-## ⭐ A star is always appreciated! ⭐
+- https://horizon-riptide.vercel.app/
+- https://discord.gg/94h4E6JADU
 
 ---
-
 ### *HORIZON v5.0 is dropping soon! Prepare for a massive evolutionary jump packed with over 150 additional features, including active filter poisoning, hardened anti-telemetry settings, a built-in game center, and comprehensive structural bug fixes. The layout has been overhauled with premium glassmorphism and radiant RGB options while fine-tuning the engine for the fastest search and traffic handling speeds yet. LOOK AT SOME LEAKED IMAGES BELOW!!!*
 
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/e987cb22-a654-430a-a68a-c97c77c81d31" />
