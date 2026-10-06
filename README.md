@@ -22,11 +22,9 @@
 
 ---
 
-<div align="center">
  
-A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!
+*A revolutionary project that has all your favorite proxy and exploiting features... contained within a singular file!*
 
-</div>
 
 ---
 
