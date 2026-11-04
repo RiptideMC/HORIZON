@@ -31,7 +31,7 @@
 
 </div>
 
-### *HORIZON v5.0 is going through the final sweeps and checks! It will be available within the next week or two. Get ready!
+### *HORIZON v5.0 is going through the final sweeps and checks! It will be available within the next week or two. Get ready!*
 
 </div>
 
