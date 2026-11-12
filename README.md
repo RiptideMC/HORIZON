@@ -212,7 +212,7 @@ You can also do this with Netlify!
 
 [v5.0] ➔ The Evolutionary Leap (Upcoming)
 - Hardened anti-telemetry scripts and active filter poisoning.
-- Encapsulated Shadow-DOM frame isolation container blocks.
+- Automatic DOM isolation, doesn't affect performance.
 - Dual-Action Panic safety system with embedded school portal mask.
 - Integrated offline unblocked game site matrix with WebAssembly retro emulators.
 - Lag prevention options and background script running for improved performance.
