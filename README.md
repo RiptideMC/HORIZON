@@ -31,7 +31,7 @@
 
 </div>
 
-### *HORIZON v5.0 is going through the final sweeps and checks! It will be available within the next week or two. Get ready!*
+### *HORIZON v5.0 is officially launching on Friday, November 20th! To all those who were waiting, it is finally ready to arrive!*
 
 </div>
 
