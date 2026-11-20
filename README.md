@@ -31,7 +31,7 @@
 
 </div>
 
-### *v5.0 has officially launched! There are still a few bugs so i will be frequently updating it. If you find any issues, please notify me or open a ticket. You can also open a GitHub issue and I will get to it as soon as possible. Thanks!*
+### *v5.0 has officially launched! There are still a few bugs, so I will be frequently updating it. If you find any issues, please notify me or open a ticket. You can also open a GitHub issue and I will get to it as soon as possible. Thanks!*
 
 </div>
 
