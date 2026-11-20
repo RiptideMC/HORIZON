@@ -31,7 +31,7 @@
 
 </div>
 
-### *HORIZON v5.0 is officially launching on Friday, November 20th! To all those who were waiting, it is finally ready to arrive!*
+### *v5.0 has officially launched! There are still a few bugs so i will be frequently updating it. If you find any issues, please notify me or open a ticket. You can also open a GitHub issue and I will get to it as soon as possible. Thanks!*
 
 </div>
 
