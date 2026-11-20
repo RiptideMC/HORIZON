@@ -203,14 +203,14 @@ You can also do this with Netlify!
 - Addressed white-screen layout failure loops.
 - Introduced early visual theme configurations.
 
-[v4.0] ➔ The Fast Edition (Current Release)
+[v4.0] ➔ The Fast Edition
 - Transitioned to a sophisticated, high-performance engine.
 - Integrated tab cloaking.
 - Optimized concurrent script threading for zero-latency searches.
 - Updated the HORIZON+ Studio / Color Lab layout customization matrix.
 - Fully decoupled from standard ServiceWorker dependencies.
 
-[v5.0] ➔ The Evolutionary Leap (Upcoming)
+[v5.0] ➔ The Evolutionary Leap (Current Release)
 - Hardened anti-telemetry scripts and active filter poisoning.
 - Automatic DOM isolation, doesn't affect performance.
 - Dual-Action Panic safety system with embedded school portal mask.
